@@ -4,7 +4,7 @@ This project predicts the **Average Daily Rate (ADR)** of hotel bookings using m
 
 The project follows a complete machine learning workflow, starting from data cleaning and exploratory data analysis to feature engineering, model training, hyperparameter tuning, and model evaluation.
 
-------
+----
 
 ## Project Objective
 
@@ -12,7 +12,7 @@ Hotel room prices are influenced by several factors such as booking lead time, h
 
 The goal of this project is to build a regression model that can accurately predict the **Average Daily Rate (ADR)** and compare multiple regression algorithms to select the best-performing model.
 
-------
+----
 
 ## Dataset
 
@@ -38,7 +38,7 @@ Some of the important features include:
 - Deposit Type
 - Special Requests
 
-------
+----
 
 ## Exploratory Data Analysis
 
@@ -55,7 +55,7 @@ Several visualizations were created to understand the data before building the m
 
 The analysis showed that variables such as lead time, room type, hotel type, number of guests, and market segment have a noticeable relationship with ADR.
 
-------
+----
 
 ## Data Preprocessing
 
@@ -70,7 +70,7 @@ The following preprocessing steps were performed before model training:
 
 Additional features such as **Total Guests** and **Total Stay** were created to improve predictive performance.
 
-------
+----
 
 ## Models Implemented
 
@@ -86,7 +86,7 @@ Additional features such as **Total Guests** and **Total Stay** were created to 
 - Lasso Regression
 - RandomizedSearchCV
 
--------
+-----
 
 ## Model Evaluation
 
